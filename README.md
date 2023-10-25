@@ -1,19 +1,14 @@
 <p align="center">
   <h3 align="center">
-    nestjs-stripe
+    nestjs-stripe2
   </h3>
 
   <p align="center">
     Injectable Stripe client for your nestjs projects
   </p>
-
-  <p align="center">
-    <img src="https://circleci.com/gh/dhaspden/nestjs-stripe.svg?style=svg">
-    <a href="https://codecov.io/gh/dhaspden/nestjs-stripe">
-      <img src="https://codecov.io/gh/dhaspden/nestjs-stripe/branch/master/graph/badge.svg" />
-    </a>
-  </p>
 </p>
+
+> Fork of the original [nestjs-stripe](https://github.com/dhaspden/nestjs-stripe) with support for nestjs v10
 
 ## Table Of Contents
 
